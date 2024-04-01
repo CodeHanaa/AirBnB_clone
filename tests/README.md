@@ -1,0 +1,1 @@
+tasks web_static
